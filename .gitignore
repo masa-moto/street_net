@@ -4,7 +4,4 @@
 /cache
 /myenv
 /__pycache__
-*.pyc
-*.pyo
-*.pyd
 *.csv
