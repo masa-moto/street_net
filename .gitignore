@@ -1,3 +1,7 @@
 /a0e7d013-b5e7-4263-9052-23a5ea6d5657.json:Zone.Identifier
+/jou202507.csv:Zone.Identifier
+
 /cache
 /myenv
+/__pycache__
+*.csv
